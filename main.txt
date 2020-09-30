@@ -1,4 +1,8 @@
 This is a initai file.
 
 
+<<<<<<< HEAD
 Feature 1 added.
+=======
+Added Feature 2
+>>>>>>> Feature2
