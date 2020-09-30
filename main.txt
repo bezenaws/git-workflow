@@ -2,7 +2,11 @@ This is a initai file.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Feature 1 added.
 =======
 Added Feature 2
 >>>>>>> Feature2
+=======
+Added Hotfix code.
+>>>>>>> HOTFIX
